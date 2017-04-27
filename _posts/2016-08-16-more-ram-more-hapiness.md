@@ -1,7 +1,7 @@
 ---
 layout: post
 title: বেশি বেশি র‍্যাম, বেশি বেশি হ্যাপিনেজ
-date: 2016-08-16 00:43
+date: 2016-08-16
 author: amsakib
 comments: true
 categories: [টেক কথন]
