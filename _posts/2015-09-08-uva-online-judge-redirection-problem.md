@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UVA Online Judge এর রিডাইরেক্ট সমস্যার সমাধান
-date: 2015-09-08 20:47
+date: 2015-09-08
 author: amsakib
 comments: true
 categories: [Browser Problem, Google Chrome, Mozilla Firefox, Tricks]
