@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operating Systems: Deadlocks
-date: 2015-12-09 20:20
+date: 2015-12-09
 author: amsakib
 comments: true
 categories: [DeadLock, Operating Systems, Study Notes]
