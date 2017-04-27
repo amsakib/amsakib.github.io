@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operating Systems: Process Scheduling
-date: 2015-05-30 13:37
+date: 2015-05-30
 author: amsakib
 comments: true
 categories: [Operating Systems, Study Notes]
