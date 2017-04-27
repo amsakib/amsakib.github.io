@@ -1,7 +1,7 @@
 ---
 layout: post
 title: মাল্টি প্রোসেসিংঃ কোর ও থ্রেড
-date: 2016-08-16 00:45
+date: 2016-08-16
 author: amsakib
 comments: true
 categories: [টেক কথন]
