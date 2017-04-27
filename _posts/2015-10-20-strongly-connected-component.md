@@ -1,7 +1,7 @@
 ---
 layout: post
 title: স্ট্রংলি কানেক্টেড কম্পোনেন্ট ( SCC )
-date: 2015-10-20 20:25
+date: 2015-10-20
 author: amsakib
 comments: true
 categories: [Algorithm, Algorithms, DFS, SCC]
