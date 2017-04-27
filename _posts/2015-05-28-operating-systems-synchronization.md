@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operating Systems : Synchronization
-date: 2015-05-28 20:25
+date: 2015-05-28
 author: amsakib
 comments: true
 categories: [Operating Systems, Study Notes]
