@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operating Systems : Process
+title: Operating Systems - Process
 date: 2015-05-29
 author: amsakib
 comments: true
