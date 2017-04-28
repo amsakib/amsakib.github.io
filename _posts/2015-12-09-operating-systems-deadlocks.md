@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operating Systems: Deadlocks
+title: Operating Systems - Deadlocks
 date: 2015-12-09
 author: amsakib
 comments: true
