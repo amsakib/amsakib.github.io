@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operating Systems : Synchronization
+title: Operating Systems - Synchronization
 date: 2015-05-28
 author: amsakib
 comments: true
